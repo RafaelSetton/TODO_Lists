@@ -1,0 +1,13 @@
+#login {
+    background-color: #ffff00;
+    margin-right: 50px;
+}
+
+div#botao {
+    width: 300px;
+    text-align: right;
+}
+
+button {
+    background-color: #00ff00;
+}

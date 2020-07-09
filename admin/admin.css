@@ -1,0 +1,24 @@
+#abrir_lista {
+    background-color: #ffff00;
+}
+
+#cadastro {
+    background-color: #0000ff;
+    width: auto;
+}
+
+.cadastro {
+    text-align: right;
+}
+
+.adicionar {
+    background-color: #00ff00;
+}
+
+.excluir {
+    background-color: #ff0000;
+}
+
+button {
+    width: 80px;
+}

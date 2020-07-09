@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <link href="../utils/estilos_gerais.css" rel="stylesheet">
+        <link href="admin.css" rel="stylesheet">
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+
+        <div class='cadastro'>
+            <button id='cadastro'>Efetuar um cadastro</button>
+        </div>
+
+        <input type='text' placeholder="Digite o nome da lista." id="nome_da_lista">
+        <button id='abrir_lista'>Abrir</button>
+        <button id='adicionar_lista' class='adicionar'>Criar</button>
+        <button id='excluir_lista' class='excluir'>Remover</button>
+
+        <br/>
+        <br/>
+        
+        <input type='text' placeholder="Digite o item a ser adicionado." id="item">
+        <button id='adiciona_item' class='adicionar'>Adicionar</button>
+        <ul id="ul_itens"></ul>
+
+        <script src='../utils/funcoes_gerais.js'></script>
+        <script src='admin.js'></script>
+    </body>
+</html>

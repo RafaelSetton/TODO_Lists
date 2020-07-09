@@ -1,0 +1,9 @@
+body {
+    background-color: #dddddd;
+    font-size: 25px;
+    margin: 50px;
+}
+
+input {
+    width: 300px;
+}
